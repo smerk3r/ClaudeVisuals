@@ -1,2 +1,0 @@
-# ClaudeVisuals
-visual
